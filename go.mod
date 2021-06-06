@@ -1,4 +1,4 @@
-module github.com/HarukaNetwork/HarukaX
+module github.com/edguru/devil_plus
 
 go 1.12
 
