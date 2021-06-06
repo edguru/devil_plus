@@ -21,8 +21,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/users"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/error_handling"
+	"github.com/edguru/devil_plus/harukax/modules/users"
+	"github.com/edguru/devil_plus/harukax/modules/utils/error_handling"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"github.com/google/uuid"
 )

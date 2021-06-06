@@ -21,9 +21,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/sql"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/chat_status"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/helpers"
+	"github.com/edguru/devil_plus/harukax/modules/sql"
+	"github.com/edguru/devil_plus/harukax/modules/utils/chat_status"
+	"github.com/edguru/devil_plus/harukax/modules/utils/helpers"
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 )

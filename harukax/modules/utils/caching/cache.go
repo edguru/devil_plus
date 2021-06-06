@@ -19,7 +19,7 @@ package caching
 import (
 	"time"
 
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/error_handling"
+	"github.com/edguru/devil_plus/harukax/modules/utils/error_handling"
 	"github.com/allegro/bigcache"
 )
 

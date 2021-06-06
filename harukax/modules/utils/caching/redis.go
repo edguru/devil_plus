@@ -19,7 +19,7 @@ package caching
 import (
 	"time"
 
-	"github.com/HarukaNetwork/HarukaX/harukax"
+	"github.com/edguru/devil_plus/harukax"
 	"github.com/go-redis/redis"
 )
 

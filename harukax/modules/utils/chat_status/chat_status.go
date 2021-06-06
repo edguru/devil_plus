@@ -23,9 +23,9 @@ import (
 
 	"github.com/wI2L/jettison"
 
-	"github.com/HarukaNetwork/HarukaX/harukax"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/caching"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/error_handling"
+	"github.com/edguru/devil_plus/harukax"
+	"github.com/edguru/devil_plus/harukax/modules/utils/caching"
+	"github.com/edguru/devil_plus/harukax/modules/utils/error_handling"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 )
 

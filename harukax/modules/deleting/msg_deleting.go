@@ -20,8 +20,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/chat_status"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/error_handling"
+	"github.com/edguru/devil_plus/harukax/modules/utils/chat_status"
+	"github.com/edguru/devil_plus/harukax/modules/utils/error_handling"
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"github.com/PaulSonOfLars/gotgbot/handlers"

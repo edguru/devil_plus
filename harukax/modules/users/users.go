@@ -20,7 +20,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/sql"
+	"github.com/edguru/devil_plus/harukax/modules/sql"
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"github.com/PaulSonOfLars/gotgbot/handlers"

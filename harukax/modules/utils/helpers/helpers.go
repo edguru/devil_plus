@@ -21,7 +21,7 @@ import (
 	"html"
 	"strings"
 
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/sql"
+	"github.com/edguru/devil_plus/harukax/modules/sql"
 	tg_md2html "github.com/PaulSonOfLars/gotg_md2html"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 )

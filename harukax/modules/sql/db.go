@@ -19,8 +19,8 @@ package sql
 import (
 	"log"
 
-	"github.com/HarukaNetwork/HarukaX/harukax"
-	"github.com/HarukaNetwork/HarukaX/harukax/modules/utils/error_handling"
+	"github.com/edguru/devil_plus/harukax"
+	"github.com/edguru/devil_plus/harukax/modules/utils/error_handling"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/lib/pq"
